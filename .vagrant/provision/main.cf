@@ -1,0 +1,22 @@
+# Config was created with help by:
+# http://www.postfix.org/BASIC_CONFIGURATION_README.html
+# https://www.digitalocean.com/community/tutorials/how-to-set-up-a-postfix-e-mail-server-with-dovecot
+
+mydomain = localhost
+myhostname = mail.$mydomain
+myorigin = $mydomain
+
+# accepts mails from this domains as final destination
+mydestination = $myhostname $mydomain localhost.$mydomain localhost localhost.localdomain
+
+# permitted senders
+mynetworks = 127.0.0.0/8
+
+# do not send mails to outside servers
+relayhost =
+relay_domains = 
+
+smtpd_use_tls = no
+
+
+content_filter = zeyple

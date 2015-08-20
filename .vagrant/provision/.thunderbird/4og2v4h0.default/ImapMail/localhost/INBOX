@@ -1,0 +1,441 @@
+From - Thu Aug  6 20:23:05 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: by mail.localhost (Postfix)
+	id 1387961DCD; Thu,  6 Aug 2015 20:23:05 +0000 (UTC)
+Date: Thu,  6 Aug 2015 20:23:05 +0000 (UTC)
+From: MAILER-DAEMON@localhost.localhost (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: testuser@localhost.localhost
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0DF0D61DC9.1438892585/mail.localhost"
+Message-Id: <20150806202305.1387961DCD@mail.localhost>
+
+This is a MIME-encapsulated message.
+
+--0DF0D61DC9.1438892585/mail.localhost
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mail.localhost.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<testuser@localhost.localhost> (expanded from <testuser@localhost>): Command
+    died with status 127: "/usr/local/bin/zeyple.py". Command output:
+    /usr/bin/env: python_: No such file or directory
+
+--0DF0D61DC9.1438892585/mail.localhost
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.localhost
+X-Postfix-Queue-ID: 0DF0D61DC9
+X-Postfix-Sender: rfc822; testuser@localhost.localhost
+Arrival-Date: Thu,  6 Aug 2015 20:23:05 +0000 (UTC)
+
+Final-Recipient: rfc822; testuser@localhost.localhost
+Original-Recipient: rfc822;testuser@localhost
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: x-unix; /usr/bin/env: python_: No such file or directory
+
+--0DF0D61DC9.1438892585/mail.localhost
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <testuser@localhost.localhost>
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id 0DF0D61DC9
+	for <testuser@localhost>; Thu,  6 Aug 2015 20:23:05 +0000 (UTC)
+Message-ID: <55C3C229.3030608@localhost>
+Date: Thu, 06 Aug 2015 20:23:05 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Test2
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Test2
+
+--0DF0D61DC9.1438892585/mail.localhost--
+From - Thu Aug  6 20:30:34 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: by mail.localhost (Postfix)
+	id 2730961DD4; Thu,  6 Aug 2015 20:30:34 +0000 (UTC)
+Date: Thu,  6 Aug 2015 20:30:34 +0000 (UTC)
+From: MAILER-DAEMON@localhost.localhost (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: testuser@localhost.localhost
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="223D561DD2.1438893034/mail.localhost"
+Message-Id: <20150806203034.2730961DD4@mail.localhost>
+
+This is a MIME-encapsulated message.
+
+--223D561DD2.1438893034/mail.localhost
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mail.localhost.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<testuser@localhost.localhost> (expanded from <testuser@localhost>): Command
+    died with status 127: "/usr/local/bin/zeyple.py". Command output:
+    /usr/bin/env: python_: No such file or directory
+
+--223D561DD2.1438893034/mail.localhost
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.localhost
+X-Postfix-Queue-ID: 223D561DD2
+X-Postfix-Sender: rfc822; testuser@localhost.localhost
+Arrival-Date: Thu,  6 Aug 2015 20:30:34 +0000 (UTC)
+
+Final-Recipient: rfc822; testuser@localhost.localhost
+Original-Recipient: rfc822;testuser@localhost
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: x-unix; /usr/bin/env: python_: No such file or directory
+
+--223D561DD2.1438893034/mail.localhost
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <testuser@localhost.localhost>
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id 223D561DD2
+	for <testuser@localhost>; Thu,  6 Aug 2015 20:30:34 +0000 (UTC)
+Message-ID: <55C3C3EA.6000308@localhost>
+Date: Thu, 06 Aug 2015 20:30:34 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Test3
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Test3
+
+--223D561DD2.1438893034/mail.localhost--
+From - Thu Aug  6 20:31:05 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: by mail.localhost (Postfix)
+	id 5CCB861DD4; Thu,  6 Aug 2015 20:31:05 +0000 (UTC)
+Date: Thu,  6 Aug 2015 20:31:05 +0000 (UTC)
+From: MAILER-DAEMON@localhost.localhost (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: testuser@localhost.localhost
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="59C7061DD2.1438893065/mail.localhost"
+Message-Id: <20150806203105.5CCB861DD4@mail.localhost>
+
+This is a MIME-encapsulated message.
+
+--59C7061DD2.1438893065/mail.localhost
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mail.localhost.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<testuser@localhost.localhost> (expanded from <testuser@localhost>): Command
+    died with status 127: "/usr/local/bin/zeyple.py". Command output:
+    /usr/bin/env: python_: No such file or directory
+
+--59C7061DD2.1438893065/mail.localhost
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.localhost
+X-Postfix-Queue-ID: 59C7061DD2
+X-Postfix-Sender: rfc822; testuser@localhost.localhost
+Arrival-Date: Thu,  6 Aug 2015 20:31:05 +0000 (UTC)
+
+Final-Recipient: rfc822; testuser@localhost.localhost
+Original-Recipient: rfc822;testuser@localhost
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: x-unix; /usr/bin/env: python_: No such file or directory
+
+--59C7061DD2.1438893065/mail.localhost
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <testuser@localhost.localhost>
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id 59C7061DD2
+	for <testuser@localhost>; Thu,  6 Aug 2015 20:31:05 +0000 (UTC)
+Message-ID: <55C3C409.5020306@localhost>
+Date: Thu, 06 Aug 2015 20:31:05 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Test4
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Test4
+
+--59C7061DD2.1438893065/mail.localhost--
+From - Thu Aug  6 20:32:14 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: by mail.localhost (Postfix)
+	id 3EF9761DD4; Thu,  6 Aug 2015 20:32:14 +0000 (UTC)
+Date: Thu,  6 Aug 2015 20:32:14 +0000 (UTC)
+From: MAILER-DAEMON@localhost.localhost (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: testuser@localhost.localhost
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="3920A61DD2.1438893134/mail.localhost"
+Message-Id: <20150806203214.3EF9761DD4@mail.localhost>
+
+This is a MIME-encapsulated message.
+
+--3920A61DD2.1438893134/mail.localhost
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mail.localhost.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<testuser@localhost.localhost> (expanded from <testuser@localhost>): Command
+    died with status 127: "/usr/local/bin/zeyple.py". Command output:
+    /usr/bin/env: python_: No such file or directory
+
+--3920A61DD2.1438893134/mail.localhost
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.localhost
+X-Postfix-Queue-ID: 3920A61DD2
+X-Postfix-Sender: rfc822; testuser@localhost.localhost
+Arrival-Date: Thu,  6 Aug 2015 20:32:14 +0000 (UTC)
+
+Final-Recipient: rfc822; testuser@localhost.localhost
+Original-Recipient: rfc822;testuser@localhost
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: x-unix; /usr/bin/env: python_: No such file or directory
+
+--3920A61DD2.1438893134/mail.localhost
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <testuser@localhost.localhost>
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id 3920A61DD2
+	for <testuser@localhost>; Thu,  6 Aug 2015 20:32:14 +0000 (UTC)
+Message-ID: <55C3C44E.6030504@localhost>
+Date: Thu, 06 Aug 2015 20:32:14 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Test5
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Test5
+
+--3920A61DD2.1438893134/mail.localhost--
+From - Thu Aug  6 20:42:18 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: by mail.localhost (Postfix)
+	id 0E72E61DD4; Thu,  6 Aug 2015 20:42:18 +0000 (UTC)
+Date: Thu,  6 Aug 2015 20:42:18 +0000 (UTC)
+From: MAILER-DAEMON@localhost.localhost (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: testuser@localhost.localhost
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A77E261DD2.1438893738/mail.localhost"
+Message-Id: <20150806204218.0E72E61DD4@mail.localhost>
+
+This is a MIME-encapsulated message.
+
+--A77E261DD2.1438893738/mail.localhost
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mail.localhost.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<testuser@localhost.localhost> (expanded from <testuser@localhost>): Command
+    died with status 1: "/usr/local/bin/zeyple.py". Command output: Traceback
+    (most recent call last):   File "/usr/local/bin/zeyple.py", line 140, in
+    <module>     zeyple = Zeyple()   File "/usr/local/bin/zeyple.py", line 28,
+    in __init__     self._load_configuration()   File
+    "/usr/local/bin/zeyple.py", line 98, in _load_configuration     raise
+    IOError('Cannot open config file.') IOError: Cannot open config file.
+
+--A77E261DD2.1438893738/mail.localhost
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.localhost
+X-Postfix-Queue-ID: A77E261DD2
+X-Postfix-Sender: rfc822; testuser@localhost.localhost
+Arrival-Date: Thu,  6 Aug 2015 20:42:17 +0000 (UTC)
+
+Final-Recipient: rfc822; testuser@localhost.localhost
+Original-Recipient: rfc822;testuser@localhost
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: x-unix; Traceback (most recent call last):   File
+    "/usr/local/bin/zeyple.py", line 140, in <module>     zeyple = Zeyple()
+    File "/usr/local/bin/zeyple.py", line 28, in __init__
+    self._load_configuration()   File "/usr/local/bin/zeyple.py", line 98, in
+    _load_configuration     raise IOError('Cannot open config file.') IOError:
+    Cannot open config file.
+
+--A77E261DD2.1438893738/mail.localhost
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <testuser@localhost.localhost>
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id A77E261DD2
+	for <testuser@localhost>; Thu,  6 Aug 2015 20:42:17 +0000 (UTC)
+Message-ID: <55C3C6A9.3070009@localhost>
+Date: Thu, 06 Aug 2015 20:42:17 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Test6
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Test6
+
+
+--A77E261DD2.1438893738/mail.localhost--
+From - Thu Aug  6 20:49:01 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <testuser@localhost.localhost>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: from [10.0.2.15] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id 5EA5E61DD4
+	for <testuser@localhost.localhost>; Thu,  6 Aug 2015 20:49:01 +0000 (UTC)
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+ by mail.localhost (Postfix) with ESMTP id 3332B61DD2
+ for <testuser@localhost>; Thu,  6 Aug 2015 20:49:01 +0000 (UTC)
+Message-ID: <55C3C83D.2020401@localhost>
+Date: Thu, 06 Aug 2015 20:49:01 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64;
+ rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Test7
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Test7
+From - Thu Aug  6 20:54:11 2015
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <testuser@localhost.localhost>
+X-Original-To: testuser@localhost.localhost
+Delivered-To: testuser@localhost.localhost
+Received: from [10.0.2.15] (localhost [127.0.0.1])
+	by mail.localhost (Postfix) with ESMTP id 8760D61DD4
+	for <testuser@localhost.localhost>; Thu,  6 Aug 2015 20:54:10 +0000 (UTC)
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+ by mail.localhost (Postfix) with ESMTP id 5A52661DD2
+ for <testuser@localhost>; Thu,  6 Aug 2015 20:54:10 +0000 (UTC)
+Message-ID: <55C3C972.6070604@localhost>
+Date: Thu, 06 Aug 2015 20:54:10 +0000
+From: Testuser <testuser@localhost.localhost>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64;
+ rv:31.0) Gecko/20100101 Thunderbird/31.8.0
+MIME-Version: 1.0
+To: testuser@localhost.localhost
+Subject: Welcome!
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+The system's root password is "vagrant".
+The testuser's password is "zeyple".
+
+Send every mail to testuser@localhost.

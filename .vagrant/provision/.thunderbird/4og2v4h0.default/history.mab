@@ -1,0 +1,64 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=LastModifiedDate)(B9=RecordKey)(BA=AddrCharSet)(BB=LastRecordKey)
+  (BC=ns:addrbk:db:table:kind:pab)(BD=ListName)(BE=ListNickName)
+  (BF=ListDescription)(C0=ListTotalAddresses)(C1=LowercaseListName)
+  (C2=ns:addrbk:db:table:kind:deleted)(C3=DbRowID)(C4=PreferDisplayName)
+  (C5=PalmRecId)(80=ns:addrbk:db:row:scope:card:all)
+  (81=ns:addrbk:db:row:scope:list:all)
+  (82=ns:addrbk:db:row:scope:data:all)(83=FirstName)(84=LastName)
+  (85=PhoneticFirstName)(86=PhoneticLastName)(87=DisplayName)
+  (88=NickName)(89=PrimaryEmail)(8A=LowercasePrimaryEmail)
+  (8B=SecondEmail)(8C=LowercaseSecondEmail)(8D=PreferMailFormat)
+  (8E=PopularityIndex)(8F=WorkPhone)(90=HomePhone)(91=FaxNumber)
+  (92=PagerNumber)(93=CellularNumber)(94=WorkPhoneType)(95=HomePhoneType)
+  (96=FaxNumberType)(97=PagerNumberType)(98=CellularNumberType)
+  (99=HomeAddress)(9A=HomeAddress2)(9B=HomeCity)(9C=HomeState)
+  (9D=HomeZipCode)(9E=HomeCountry)(9F=WorkAddress)(A0=WorkAddress2)
+  (A1=WorkCity)(A2=WorkState)(A3=WorkZipCode)(A4=WorkCountry)
+  (A5=JobTitle)(A6=Department)(A7=Company)(A8=_AimScreenName)
+  (A9=AnniversaryYear)(AA=AnniversaryMonth)(AB=AnniversaryDay)
+  (AC=SpouseName)(AD=FamilyName)(AE=WebPage1)(AF=WebPage2)(B0=BirthYear)
+  (B1=BirthMonth)(B2=BirthDay)(B3=Custom1)(B4=Custom2)(B5=Custom3)
+  (B6=Custom4)(B7=Notes)>
+
+<(98=3)(81=)(80=0)(9A=4)(9C=testuser2@localhost.localdomain)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [1:^82(^BB=3)]
+  [4(^87=)(^8D=0)(^C3=4)(^8E=0)(^C4=0)(^89^9C)(^B8=0)(^8A^9C)(^B9=3)]}
+
+<(83=testuser@localhost)(95=55c4930f)(94=testuser2@localhost)(9D=55c4a07d)>
+{2:^80 {(k^C2:c)(s=9)} 
+  [3(^83=)(^84=)(^87=)(^89^83)(^8A^83)(^8B^83)(^8C^83)(^B8^95)]
+  [5(^83=)(^84=)(^87=)(^89^94)(^8A^94)(^8B^94)(^8C^94)(^B8^9D)]}
+[2:^80]
+
+@$${12{@
+<(82=1)(9E=1438949695)>[-4:^80(^87=)(^8D=0)(^C3=4)(^8E=1)(^C4=0)(^89^9C)
+    (^B8^9E)(^8A^9C)(^B9=3)]
+@$$}12}@
+
+@$${13{@
+<(93=2)(9F=1438953369)>[-4:^80(^87=)(^8D=0)(^C3=4)(^8E=2)(^C4=0)(^89^9C)
+    (^B8^9F)(^8A^9C)(^B9=3)]
+@$$}13}@
+
+@$${14{@
+<(A0=1438953397)>[-4:^80(^87=)(^8D=0)(^C3=4)(^8E=3)(^C4=0)(^89^9C)
+    (^B8^A0)(^8A^9C)(^B9=3)]
+@$$}14}@
+
+@$${15{@
+<(A1=1438954077)>[-4:^80(^87=)(^8D=0)(^C3=4)(^8E=4)(^C4=0)(^89^9C)
+    (^B8^A1)(^8A^9C)(^B9=3)]
+@$$}15}@
+
+@$${16{@
+<(8B=5)(A2=1438954629)>[-4:^80(^87=)(^8D=0)(^C3=4)(^8E=5)(^C4=0)(^89^9C)
+    (^B8^A2)(^8A^9C)(^B9=3)]
+@$$}16}@
+
+@$${17{@
+<(8D=6)(A3=1438954844)>[-4:^80(^87=)(^8D=0)(^C3=4)(^8E=6)(^C4=0)(^89^9C)
+    (^B8^A3)(^8A^9C)(^B9=3)]
+@$$}17}@
