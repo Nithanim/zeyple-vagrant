@@ -1,6 +1,6 @@
 #!/bin/sh
 
-apt-get install gnupg python-gpgme sudo
+apt-get install -y gnupg python-gpgme sudo
 
 
 echo "Configuring zeyple"
