@@ -2,7 +2,7 @@
 
 echo "Setting up thunderbird"
 
-apt-get -qqy install thunderbird
+apt-get -y install thunderbird
 
 if [ ! -e /root/.thunderbird/ ]; then
 	cp -r /vagrant_provision/.thunderbird/ /root/
